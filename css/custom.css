@@ -69,13 +69,13 @@ body {
 }
 
 .search-logo img {
-  width: 380px;
+  width: 300px;
 }
 
 .search-bar {
   margin: 30px 0;
   position: relative;
-  width: 145%;
+  width: 125%;
 }
 
 .search-bar input {
